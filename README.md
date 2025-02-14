@@ -59,11 +59,3 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lawrindovsk.lawrindovsk&"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lawrindovsk/lawrindovsk/output/snake.svg" alt="Snake animation" />
-
-###
