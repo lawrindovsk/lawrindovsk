@@ -83,7 +83,7 @@
 ###
 
 <div align="center">
-  <img height="720" src="https://i.imgur.com/gQpyDX8.jpeg"  />
+  <img height="842" src="https://preview.redd.it/what-is-the-most-iconic-pokespe-panel-v0-sc81o1otzo8a1.jpg?width=1080&crop=smart&auto=webp&s=8bd84b3954f0bb0db86d49fa5697f29f5b3127bd"  />
 </div>
 
 ###
