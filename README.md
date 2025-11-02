@@ -22,11 +22,11 @@
 
 ###
 
-<h2 align="center">Hey, what's up! great to see you here!</h2>
+<h2 align="center">Hey, what's up! great to see you here.</h2>
 
 ###
 
-<h2 align="center">Olá! legal te ver aqui!</h2>
+<h2 align="center">Olá! legal te ver aqui.</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools<br>🪛 Linguagens e Ferramentas</h3>
+<h3 align="left">🛠 Language and tools!</h3>
 
 ###
 
