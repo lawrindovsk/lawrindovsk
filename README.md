@@ -85,7 +85,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lawrindovsk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1&custom_title=Github%20Stats%20%F0%9F%98%BC" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lawrindovsk&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=nord&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=lawrindovsk&locale=pt-br&mode=daily&theme=nord&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=lawrindovsk&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
